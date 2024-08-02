@@ -13,9 +13,11 @@ IDEA VSCode Navicat JDK Maven
 首先，web端教师可以注册登录该系统，并且可以正常修改自己的个人信息。对于课程学习，教师可以创建课程，并在自己创建的课程中需要创建相应的章节并上传学习视频，对于报名自己课程的同学进行审核。对于学习检测，教师可以创建、查看、发布、修改、删除自己课程的日常作业及考试。对于沟通交流，老师可以发布讨论并发表自己的观点，对自己发表的讨论可以进行查看、删除及修改。
 ### （3）管理员
 首先，web端管理员可以进行专业管理，对系统中的课程专业进行查看、增加、修改、删除。其次是用户管理，管理员可以对学生和教师信息进行管理及同时可以重置用户密码。然后是课程分类管理，管理员可以对系统中的课程分类进行查看、增加、修改和删除。最后是公告管理，管理员可以发布、查看、修改和删除系统公告。
+
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/1a53e133-acf6-4efb-b9fb-9ca6c62b810f">
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/6ec1ca61-8e8b-44d6-bf1c-0bea2ad04671">
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/38ba96bf-d6d1-4e27-bff1-bc530cce3cfe">
+
 ## 详情页：
 ### （1）Web前台系统
 #### 注册登录
@@ -81,7 +83,7 @@ IDEA VSCode Navicat JDK Maven
 <img width="960" alt="c7cc3a2f330c49cb60977bf623f89e2" src="https://github.com/user-attachments/assets/660d54eb-674c-4f8d-a117-c442aabf085c">
 
 ### （3）小程序端
-<center>![Screenshot 2024-08-02 204557](https://github.com/user-attachments/assets/280f0f29-7b73-4745-868b-0d4e27764cda)</center>
+![Screenshot 2024-08-02 204557](https://github.com/user-attachments/assets/280f0f29-7b73-4745-868b-0d4e27764cda)
 <img width="178" alt="c26da1091988305ec30c96e57f3537b" src="https://github.com/user-attachments/assets/8be03018-9015-49a4-beb5-e305a06c74f7">
 <img width="179" alt="44d0086849b9390fd0c573a674d163d" src="https://github.com/user-attachments/assets/3cac3134-f98d-4e5a-b1ce-2f1a6186e999">
 <img width="174" alt="02f9d17a5ee2ffc0089f6d792963a09" src="https://github.com/user-attachments/assets/ccef416f-d04a-4aa2-b3e7-c8ce453f9499">
