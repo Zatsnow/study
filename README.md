@@ -81,7 +81,7 @@ IDEA VSCode Navicat JDK Maven
 <img width="960" alt="c7cc3a2f330c49cb60977bf623f89e2" src="https://github.com/user-attachments/assets/660d54eb-674c-4f8d-a117-c442aabf085c">
 
 ### （3）小程序端
-![image](https://github.com/user-attachments/assets/0ef09d57-e302-40b8-8bc7-a1e78b3cbc48)
+<center>![Screenshot 2024-08-02 204557](https://github.com/user-attachments/assets/280f0f29-7b73-4745-868b-0d4e27764cda)</center>
 <img width="178" alt="c26da1091988305ec30c96e57f3537b" src="https://github.com/user-attachments/assets/8be03018-9015-49a4-beb5-e305a06c74f7">
 <img width="179" alt="44d0086849b9390fd0c573a674d163d" src="https://github.com/user-attachments/assets/3cac3134-f98d-4e5a-b1ce-2f1a6186e999">
 <img width="174" alt="02f9d17a5ee2ffc0089f6d792963a09" src="https://github.com/user-attachments/assets/ccef416f-d04a-4aa2-b3e7-c8ce453f9499">
