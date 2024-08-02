@@ -16,7 +16,6 @@ IDEA VSCode Navicat JDK Maven
 <img width="415" alt="image" src="https://github.com/user-attachments/assets/1a53e133-acf6-4efb-b9fb-9ca6c62b810f">
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/6ec1ca61-8e8b-44d6-bf1c-0bea2ad04671">
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/38ba96bf-d6d1-4e27-bff1-bc530cce3cfe">
-
 ## 详情页：
 ### （1）Web前台系统
 #### 注册登录
